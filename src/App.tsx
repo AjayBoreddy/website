@@ -20,7 +20,7 @@ function App() {
       id: 1,
       title: "Ai Mock Interview Platform",
       description: "Elevate your interview preparation with AI-driven insights and real-time feedback! AiMockInterview is an intelligent mock interview platform built using React.js and Firebase, designed to simulate real-world interview scenarios, provide AI-generated questions, and deliver instant feedback on responses.",
-      image:"https://media-hosting.imagekit.io/6c9745ca0b004c74/Screenshot 2025-04-08 at 7.40.39 PM.png?Expires=1838763947&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=YsTo--jPQozf4DQGCP9VT3w9jPx4ia~kPYs~ytnh7CWkJOs7k8OFtGzlkGRKSTzbP6me26yNiovf2Wln7PUnhSFTPfS06AyKctQQBy67eTVAbl5vCaFWtzGRz3XikxhJTOIStLdx4gcunrZzfPxoO6MLyuhJncTGbNehXTNtAiLyuXkp1buH4~Q0ErAo5k3yLwWrz~SN2PYc5bqynKYk~grYqCwbosC~mjiTAS65uweR0BOrfJCyYUbGU8NERmtd2FlsomCOVUhR1KKHouAiEJ7gmHoVHx1lZ4F0KHUxcEZjBj7Xi6HIVuJ7-FFm2TwojO7Few6X1IMUWaZtIWk7sQ__",
+      image:"https://i.ibb.co/qFV3wZSv/Screenshot-2025-04-08-at-7-40-39-PM.png",
       technologies: ["React", "Node.js", "Clerk", "Firebase", "GeminiAi"],
       demoLink: "https://interviewmock.netlify.app/",
       githubLink: "https://github.com/AjayBoreddy/AiMockInterview",

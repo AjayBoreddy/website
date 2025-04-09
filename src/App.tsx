@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Github, Linkedin, Mail, ExternalLink, Code, Monitor, Server, GraduationCap, Calendar, MapPin, Briefcase, Download } from 'lucide-react';
-import CVFile from './AjayKumarReddyBoreddy-Resume.pdf';
+import CVFile from './AjayBoreddyResume.pdf';
 import emailjs from '@emailjs/browser'; 
 
 function App() {
